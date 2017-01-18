@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo8SimpleCalculator\JohnPietrangelo8SimpleCalculator\bin\Debug\JohnPietrangelo8SimpleCalculator.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo8SimpleCalculator\JohnPietrangelo8SimpleCalculator\bin\Debug\JohnPietrangelo8SimpleCalculator.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo8SimpleCalculator\JohnPietrangelo8SimpleCalculator\bin\Debug\JohnPietrangelo8SimpleCalculator.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo8SimpleCalculator\JohnPietrangelo8SimpleCalculator\obj\Debug\JohnPietrangelo8SimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo8SimpleCalculator\JohnPietrangelo8SimpleCalculator\obj\Debug\JohnPietrangelo8SimpleCalculator.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo8SimpleCalculator\JohnPietrangelo8SimpleCalculator\obj\Debug\JohnPietrangelo8SimpleCalculator.pdb
